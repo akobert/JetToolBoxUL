@@ -1,0 +1,29 @@
+000 (1431525.095.000) 2021-12-07 18:11:57 Job submitted from host: <192.168.1.109:9618?addrs=192.168.1.109-9618&alias=ruhex-hn.physics.rutgers.edu&noUDP&sock=schedd_2813_6067>
+...
+001 (1431525.095.000) 2021-12-07 18:14:24 Job executing on host: <192.168.1.43:9618?addrs=192.168.1.43-9618&alias=node42.hexfarm.rutgers.edu&noUDP&sock=startd_4277_8f0e>
+...
+006 (1431525.095.000) 2021-12-07 18:14:33 Image size of job updated: 141848
+	61  -  MemoryUsage of job (MB)
+	61660  -  ResidentSetSize of job (KB)
+...
+006 (1431525.095.000) 2021-12-07 18:14:55 Image size of job updated: 1229736
+	61  -  MemoryUsage of job (MB)
+	61800  -  ResidentSetSize of job (KB)
+...
+005 (1431525.095.000) 2021-12-07 18:14:55 Job terminated.
+	(1) Normal termination (return value 86)
+		Usr 0 00:00:23, Sys 0 00:00:02  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:23, Sys 0 00:00:02  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+	0  -  Total Bytes Sent By Job
+	0  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :                 1         1 
+	   Disk (KB)            :        1        1  20458766 
+	   Memory (MB)          :       61        1      4022 
+
+	Job terminated of its own accord at 2021-12-07T23:14:55Z.
+...
