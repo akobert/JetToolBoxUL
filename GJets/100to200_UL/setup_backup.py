@@ -3,7 +3,7 @@
 if __name__ == "__main__":
     allFiles = open("input.txt", "r")
 
-    for process in range(1):
+    for process in range(154):
     	template = open("NANO.py", "r")
         newFile = open("nano" + str(process) + ".py", "a+")
        	readLine = allFiles.readline()
